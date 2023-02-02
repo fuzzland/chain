@@ -1,11 +1,10 @@
 [package]
-name = "pallet-template"
+name = "pallet-optimistic-rollup"
 version = "4.0.0-dev"
-description = "FRAME pallet template for defining custom runtime logic."
-authors = ["Substrate DevHub <https://github.com/substrate-developer-hub>"]
-homepage = "https://substrate.io"
+description = ""
+authors = ["FuzzLand <https://fuzz.land>", "Substrate DevHub <https://github.com/substrate-developer-hub>"]
+homepage = "https://fuzz.land"
 edition = "2021"
-license = "Unlicense"
 publish = false
 repository = "https://github.com/substrate-developer-hub/substrate-node-template/"
 
